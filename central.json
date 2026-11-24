@@ -9,13 +9,13 @@
     "data": "2026-11-24"
   },
   "manutencao": {
-    "ativa": true,
+    "ativa": false,
     "tipo": "manutencao",
-    "mensagem": ""
+    "mensagem": "voltaremos logo logo, aguarde!"
   },
   "avisos": [],
   "funcoes": {},
   "textos": {},
   "conteudo": [],
-  "atualizado": "2026-11-24T02:03:47.348Z"
+  "atualizado": "2026-11-24T02:25:07.012Z"
 }
