@@ -1,0 +1,20 @@
+{
+  "app": "Hub Ultimate",
+  "plataforma": "Windows",
+  "versao": {
+    "numero": "",
+    "link": "",
+    "changelog": "",
+    "obrigatoria": false,
+    "data": ""
+  },
+  "manutencao": {
+    "ativa": false,
+    "mensagem": ""
+  },
+  "avisos": [],
+  "funcoes": {},
+  "textos": {},
+  "conteudo": [],
+  "atualizado": "2026-11-24T01:32:00Z"
+}
